@@ -3,10 +3,8 @@ ls
 
 ls program implementation on Groovy language
 
-works on windows and maby on linux
-
-build with ant and/or NetBeans IDE
+build it with NetBeans 7.4
 
 usage: >ls
 
-no arguments ^_^
+![ls screenshot](https://raw.github.com/PokimonZerg/ls/master/ls.png)
